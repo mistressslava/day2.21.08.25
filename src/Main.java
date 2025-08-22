@@ -8,6 +8,8 @@ public class Main {
         greetStudent(name1);
         greetStudent(name2);
 
+        greetStudent(name2);
+
 //        boolean test = isEven(20);
 //        System.out.println(test);
         System.out.println(multiply(5,3));
